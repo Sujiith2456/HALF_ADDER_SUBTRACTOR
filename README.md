@@ -63,3 +63,4 @@ Developed by: RegisterNumber:*/
 ![rs4](https://github.com/user-attachments/assets/a4f78574-02af-45b1-ba75-4302b08bb337)
 
 **Result:**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
